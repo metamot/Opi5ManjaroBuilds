@@ -13,7 +13,7 @@
 
 # Pre-build setup
 sudo pacman -Syyu --noconfirm
-sudo pacman -S --needed base-devel btop --noconfirm
+sudo pacman -S --needed base-devel git btop --noconfirm
 
 ## WARNING: Any builds are wants good cooling. Make sure that your Opi5 device
 ## has big radiator and cooler.
