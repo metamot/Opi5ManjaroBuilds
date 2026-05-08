@@ -8,6 +8,9 @@
 
 ## === Any build setup START..............................................BEGIN
 
+# Download this file.
+# chmod u+x kicad-10.sh
+
 # Pre-build setup
 sudo pacman -Syyu --noconfirm
 sudo pacman -S --needed base-devel btop
