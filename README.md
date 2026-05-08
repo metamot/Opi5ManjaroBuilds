@@ -24,7 +24,7 @@ This repository contains optimized build scripts for heavy applications on the R
 
 ### [/sh/kicad-10.sh)
 - **Status:** Stable ✅
-- **Build Time:** ~75 min (on OPi5 16GB)
+- **Build Time:** ~70-90 min (on OPi5 16GB)
 - **Features:** Optimized for Mali-G610 GPU, Sudo patch included.
 
 ---
