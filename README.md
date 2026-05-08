@@ -92,6 +92,10 @@ time makepkg -ei --noconfirm
 ## You settings(Linux) are now: ~/.cache/kicad ; ~/.config/kicad ; ~/.local/share/kicad
 ## Why "no libraries?" - will be decribed below.
 
+## "Note: Standard libraries are excluded to prevent bloat.
+## Engineering excellence starts with building your own components for maximum
+## precision and project integrity."
+
 ## Graphics accel:
 ## Menu: Preferences/Common -- Check "Accelerated Graphics" to yes.
 ## Menu: Preferences/3Dviewer/RealTimeRenderer -- "AntiAliasing" switch to "x2".
