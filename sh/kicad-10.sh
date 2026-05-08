@@ -1,5 +1,11 @@
 #!/bin/bash
-# Orange Pi 5 / 5 Plus - Manjaro ARM Build Scripts
+## Orange Pi 5 / 5 Plus - Manjaro ARM Build Scripts
+## git clonw https://github.com/metamot/Opi5ManjaroBuilds
+## cd Opi5ManjaroBuilds/sh
+## chmod u+x *.sh
+## ./kicad-10.sh
+## (for example)
+
 ## === Any build setup START..............................................BEGIN
 
 # Pre-build setup
